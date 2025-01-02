@@ -1,2 +1,2 @@
-# react-quill
+# Editor-Quill
 Created with CodeSandbox
